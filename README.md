@@ -1,2 +1,2 @@
 # MilkBlog
-Personal flex box project.
+Personal flexbox project.
