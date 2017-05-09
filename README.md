@@ -1,2 +1,2 @@
 # MilkBlog
-Project for my Origamid course
+Personal flex box project.
