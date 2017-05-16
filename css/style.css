@@ -106,6 +106,10 @@ h1{
 	padding: 60px 10px;
 }
 
+h1.intro{
+	padding-left: 25px;
+}
+
 /*About*/
 
 .about{
