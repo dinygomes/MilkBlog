@@ -122,8 +122,8 @@ h1.intro{
 /*About*/
 
 .about{
-	border-top: 3px dotted #59403B;
-	border-bottom: 3px dotted #59403B;
+	border-top: 3px dotted rgba(89, 64, 59, 0.6);
+	border-bottom: 3px dotted rgba(89, 64, 59, 0.6);
 	max-width: 960px;
 	margin: 0 auto;
 	padding: 60px 0;
@@ -137,7 +137,7 @@ h1.intro{
 }
 
 .about-info h1{
-	font-size: 2em;
+	font-size: 3em;
 	margin-bottom: .5em;
 }
 
@@ -150,13 +150,13 @@ h1.intro{
 
 .about-img{
 	flex: 1 1 380px;
-	margin: 20px 10px 20px 5px;
+	margin: 20px 10px 20px 10px;
 }
 
 /*Latest*/
 
 .latest{
-	border-bottom: 3px dotted #59403B;
+	border-bottom: 3px dotted rgba(89, 64, 59, 0.6);
 	padding-bottom: 60px;
 	max-width: 960px;
 	margin: 60px auto;
@@ -167,13 +167,14 @@ h1.intro{
 .latest h1{
 	font-size: 3em;
 	margin-bottom: .5em;
-	margin: 0 5px 20px 5px;
+	margin: 0 10px 20px 10px;
 }
 
 .latest h2{
-	font-size: 1.2em;
+	font-size: .9em;
 	padding-top: 20px;
 	margin-bottom: .5em;
+	text-transform: uppercase;
 }
 
 .latest p{
@@ -204,7 +205,7 @@ h1.intro{
 
 .blog {
 	flex: 1 1 250px;
-	margin: 20px 10px 20px 5px;
+	margin: 20px 10px;
 	cursor: pointer;
 }
 
@@ -217,12 +218,13 @@ h1.intro{
 
 .featured h1{
 	font-size: 3em;
-	margin: 0 5px 20px 5px;
+	margin: 0 10px 20px 10px;
 }
 
 .featured h2{
-	font-size: 1.2em;
+	font-size: .9em;
 	margin: 10px auto;
+	text-transform: uppercase;
 }
 
 .featured-container{
@@ -233,16 +235,15 @@ h1.intro{
 
 .ft{
 	flex: 1 1 200px;
-	margin: 20px 10px 20px 5px;
+	margin: 20px 10px;
 	align-items: flex-center;
 	cursor: pointer;
 }
 
-
 /*Recipes*/
 
 .recipes{
-	border-top: 3px dotted #59403B;;
+	border-top: 3px dotted rgba(89, 64, 59, 0.6);
 	padding: 60px 0;
 	max-width: 960px;
 	margin: 60px auto;
@@ -253,13 +254,14 @@ h1.intro{
 .recipes h1{
 	font-size: 3em;
 	margin-bottom: .5em;
-	margin: 0 5px 30px 5px;
+	margin: 0 10px 20px 10px;
 }
 
 .recipes h2{
-	font-size: 1.2em;
+	font-size: .9em;
 	padding-top: 20px;
 	margin-bottom: .5em;
+	text-transform: uppercase;
 }
 
 .recipes p{
@@ -290,7 +292,7 @@ h1.intro{
 
 .recipe {
 	flex: 1 1 250px;
-	margin: 20px 10px 20px 5px;
+	margin: 20px 10px;
 }
 
 /*Footer*/
@@ -323,7 +325,7 @@ h1.intro{
 }
 
 .intro{
-	margin: -35px 0;
+	margin: -35px -5px;
 	font-size: 2em;
 	line-height: 1.5em;
 }
@@ -335,8 +337,12 @@ h1.intro{
 .about h1 {
 	margin-top: -25px;
 	font-size: 2em;
-	}
+}
 
+.about-img{
+	margin: 15px 15px 0 15px;
+}
+	
 .latest{
 	margin: 60px 10px;
 }
