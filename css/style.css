@@ -32,6 +32,10 @@ h1 {
 	font-family: 'Cardo', serif;
 }
 
+border {
+	background-color: #c9c9c9;
+}
+
 /*Superinfo*/
 
 .superinfo-bg{
@@ -118,8 +122,8 @@ h1.intro{
 /*About*/
 
 .about{
-	border-top: 2px dotted;
-	border-bottom: 2px dotted;
+	border-top: 3px dotted #59403B;
+	border-bottom: 3px dotted #59403B;
 	max-width: 960px;
 	margin: 0 auto;
 	padding: 60px 0;
@@ -133,7 +137,7 @@ h1.intro{
 }
 
 .about-info h1{
-	font-size: 3em;
+	font-size: 2em;
 	margin-bottom: .5em;
 }
 
@@ -152,7 +156,7 @@ h1.intro{
 /*Latest*/
 
 .latest{
-	border-bottom: 2px dotted;
+	border-bottom: 3px dotted #59403B;
 	padding-bottom: 60px;
 	max-width: 960px;
 	margin: 60px auto;
@@ -238,7 +242,7 @@ h1.intro{
 /*Recipes*/
 
 .recipes{
-	border-top: 2px dotted;
+	border-top: 3px dotted #59403B;;
 	padding: 60px 0;
 	max-width: 960px;
 	margin: 60px auto;
@@ -319,16 +323,17 @@ h1.intro{
 }
 
 .intro{
-	margin: -15px -5px;
+	margin: -35px 0;
 	font-size: 2em;
-	line-height: 1;
+	line-height: 1.5em;
 }
 
 .about{
-	margin: -10px 10px;
+	margin: 0px 10px;
 }
 	
 .about h1 {
+	margin-top: -25px;
 	font-size: 2em;
 	}
 
@@ -338,6 +343,7 @@ h1.intro{
 	
 .latest h1 {
 	font-size: 2em;
+	margin-top: -25px;
 }
 
 .featured{
@@ -346,6 +352,7 @@ h1.intro{
 	
 .featured h1 {
 	font-size: 2em;
+	margin-top: -25px;
 }
 
 .recipes{
@@ -354,6 +361,7 @@ h1.intro{
 	
 .recipes h1 {
 	font-size: 2em;
+	margin-top: -25px;
 }
 
 .footer p{
