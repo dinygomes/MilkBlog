@@ -8,13 +8,14 @@ body, h1, h2, p, ul, li, a{
 body {
 	font-family: 'Josefin Sans', sans-serif;
 	color: #222222;
+	overflow-x: hidden;
 }
 
-ul{
+ul {
 	list-style: none;
 }
 
-a{ 
+a { 
 text-decoration: none; 
 color: #fff;
 }
@@ -22,12 +23,12 @@ color: #fff;
 a:hover{
 	color: #E9C59E;
 }
-img{ 
+img { 
 	display: block;
 	max-width: 100%;
 }
 
-h1{
+h1 {
 	font-family: 'Cardo', serif;
 }
 
@@ -297,7 +298,7 @@ h1.intro{
 	flex-wrap: wrap;
 	height: 25px;
 	align-items: center;	
-	padding: 40px 0 40px 0;
+	padding: 40px 10px 40px 10px;
 }
 
 .footer p{
