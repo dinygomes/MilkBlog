@@ -314,6 +314,50 @@ h1.intro{
 	color: white;
 }
 
+/*Button Top*/
+
+#return-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 35px;
+    background: rgba(89, 64, 59, 0.4);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: rgba(89, 64, 59, 0.8);
+}
+#return-to-top:hover i {
+    color: rgba(255, 255, 255, 0.8);
+    top: 5px;
+}
+
+/* End of Back to Top*/
+
 @media screen and (max-width: 1000px) {
 
 .superinfo-bg{
@@ -375,4 +419,49 @@ h1.intro{
 	line-height: 1;
 	margin: 0 auto;
 }
+	
+	/*Button Top*/
+
+#return-to-top {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    background: rgba(89, 64, 59, 0.4);
+    width: 35px;
+    height: 35px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+    position: relative;
+    left: 9px;
+    top: 8px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: rgba(89, 64, 59, 0.7);
+}
+#return-to-top:hover i {
+    color: color: rgba(255, 255, 255, 0.8);
+    top: 5px;
+}
+
+/* End of Back to Top*/
+	
 }
