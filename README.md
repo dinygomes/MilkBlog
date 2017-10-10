@@ -6,7 +6,7 @@ Check out the <a href="http://codepen.io/dinygomes/full/aWYPqp/">Demo</a>.
 
 Although MilkBlog 2.0 is being launched. Take a look at the screenshots:
 
-For mobile:
+<h1>For mobile:</h1><br />
 <img src="http://i67.tinypic.com/2qvayrp.png">. 
 <img src="http://i66.tinypic.com/rc8ryg.png">
 <img src="http://i63.tinypic.com/dr71nn.png">
