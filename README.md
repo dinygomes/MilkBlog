@@ -4,7 +4,7 @@ MilkBlog 1.0: a simple, clean and responsive flexbox layout.
 
 Check out the <a href="http://codepen.io/dinygomes/full/aWYPqp/">Demo</a>.
 
-But don't sweat, because MilkBlog 2.0 is being launched. 
+But don't sweat, because MilkBlog 2.0 is being launched soon. 
 Take a look at the screenshots:
 
 <h3>For mobile:</h3><br />
