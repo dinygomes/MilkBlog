@@ -1,6 +1,6 @@
 # MilkBlog
 
-MilkBlog 2.0 is being launched soon. < br>
+MilkBlog 2.0 is being launched soon.<br />
 Click on "View all of README.md" to check out the screenshots:
 
 <h3>For mobile:</h3><br />
