@@ -1,10 +1,6 @@
 # MilkBlog
 
-MilkBlog 1.0: a simple, clean and responsive flexbox layout.
-
-Check out the <a href="http://codepen.io/dinygomes/full/aWYPqp/">Demo</a>.
-
-But don't sweat, because MilkBlog 2.0 is being launched soon. 
+Don't sweat, because MilkBlog 2.0 is being launched soon. 
 Take a look at the screenshots:
 
 <h3>For mobile:</h3><br />
@@ -18,3 +14,9 @@ Take a look at the screenshots:
 <img src="http://i66.tinypic.com/e8vgid.png">
 <img src="http://i64.tinypic.com/2n6i3xg.png">
 <img src="http://i68.tinypic.com/2lt3pz7.png">
+
+Previous version:
+MilkBlog 1.0: a simple, clean and responsive flexbox layout.
+
+Check out the <a href="http://codepen.io/dinygomes/full/aWYPqp/">Demo</a>.
+
