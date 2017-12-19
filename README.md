@@ -1,7 +1,7 @@
 # MilkBlog
 
-MilkBlog 2.0 is being launched soon.<br />
-Click on "View all of README.md" to check out the screenshots:
+MilkBlog 2.0 is here: <a href="https://codepen.io/dinygomes/full/OxjPEQ/">Demo</a>.<br />
+But if you would like to check out the screenshots, click on "View all of README.md":
 
 <h3>For mobile:</h3><br />
 <img src="http://i67.tinypic.com/2qvayrp.png">. 
