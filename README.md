@@ -1,6 +1,6 @@
 # MilkBlog
 
-MilkBlog 2.0 is here: <a href="https://codepen.io/dinygomes/full/OxjPEQ/">Demo</a>.<br />
+MilkBlog 2.0 is here: <a href="https://codepen.io/dinygomes/full/OxjPEQ/" target="_blank">Demo</a>.<br />
 Some scripts cannot be loaded due to some incompatibilities. So if you would like to check out the screenshots, click on "View all of README.md":
 
 <h3>For mobile:</h3><br />
@@ -18,5 +18,5 @@ Some scripts cannot be loaded due to some incompatibilities. So if you would lik
 Previous version:
 MilkBlog 1.0: a simple, clean and responsive flexbox layout.
 
-Check out the <a href="http://codepen.io/dinygomes/full/aWYPqp/">Demo</a>.
+Check out the <a href="http://codepen.io/dinygomes/full/aWYPqp/" target="_blank">Demo</a>.
 
