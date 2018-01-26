@@ -1,7 +1,7 @@
 # MilkBlog
 
 MilkBlog 2.0 is here: <a href="https://codepen.io/dinygomes/full/OxjPEQ/" target="_blank">Demo</a>.<br />
-Some scripts cannot be loaded due to some incompatibilities. So if you would like to check out the screenshots, click on "View all of README.md":
+Some scripts cannot be loaded due to incompatibilities. So if you would like to check out the screenshots, click on "View all of README.md":
 
 <h3>For mobile:</h3><br />
 <img src="http://i67.tinypic.com/2qvayrp.png">. 
